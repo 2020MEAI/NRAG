@@ -19,7 +19,7 @@ NRAG: A Knowledge Graph-Enhanced Large Language Model Approach for Neurosurgical
 2. 下载 NRAG 模型参数，将checkpoint压缩文件解压到 ChatGLM3-6B/ptuning/ 路径下。
 3. 参考ChatGLM3-6B项目，调用制定checkpoint路径下的训练参数，激活模型。
    
-夸克网盘链接: https://pan.quark.cn/s/2b9f55fbf46c    提取码：GzTe
+checkpoint压缩文件夸克网盘链接: https://pan.quark.cn/s/2b9f55fbf46c    提取码：GzTe
 
 ## 致谢
 本项目参考了以下开源项目，在此对相关项目和研究开发人员表示感谢。
